@@ -32,8 +32,9 @@ from transformers.models.auto import AutoModelForSequenceClassification
 
 ## 주요 실험 결과
 
-평가 기준은 정확도(accuracy)입니다.
+![Suggest a Disaster Tweet](https://user-images.githubusercontent.com/96714121/147572294-55fe4390-2d80-4272-8164-980c4bae0124.png)
 
+평가 기준은 정확도(accuracy)입니다.
 
 실험 결과, roberta-base가 86.33%으로 높은 성능을 보였습니다. 그 다음은 bert-base-uncased(84.36%)이며, albert-base-v2(84.23%)가 뒤를 이었습니다.
 
