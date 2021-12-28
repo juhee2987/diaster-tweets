@@ -8,7 +8,14 @@ BERT, RoBERTa, ALBERT, OpenAI GPT2 모델을 이용
 
 ## 코드 수행 과정
 
+### 필요한 모듈
 
+* numpy
+* torch
+* time
+* pandas
+* matplotlib
+* seaborn
 
 ## 주요 실험 결과
 
