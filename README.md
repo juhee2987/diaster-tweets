@@ -20,6 +20,14 @@ BERT, RoBERTa, ALBERT, OpenAI GPT2 모델을 이용했습니다.
 * matplotlib
 * seaborn
 
+### 데이터 셋
+
+10,000개의 트위터 데이터입니다.
+
+단어(keyword), 장소(location), 본문(text), 재난 여부(target)으로 구성되어 있습니다.
+
+https://www.kaggle.com/c/nlp-getting-started/data
+
 ### 데이터 전처리 및 학습 모델
 
 from transformers import AutoTokenizer
