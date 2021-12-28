@@ -20,6 +20,16 @@ BERT, RoBERTa, ALBERT, OpenAI GPT2 모델을 이용
 * matplotlib
 * seaborn
 
+### tokenizer
+
+from transformers import AutoTokenizer
+
+from transformers.models.auto import AutoModelForSequenceClassification
+
+각 모델의 tokenizer로 전처리를 진행하고 각 모델 성능 결과를 출력
+
+
+
 ## 주요 실험 결과
 
 평가 기준은 정확도(accuracy)입니다.
