@@ -20,7 +20,7 @@ BERT, RoBERTa, ALBERT, OpenAI GPT2 모델을 이용했습니다.
 * matplotlib
 * seaborn
 
-### tokenizer
+### 데이터 전처리 및 학습 모델
 
 from transformers import AutoTokenizer
 
