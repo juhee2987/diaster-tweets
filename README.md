@@ -34,14 +34,7 @@ from transformers.models.auto import AutoModelForSequenceClassification
 
 각 모델의 tokenizer로 전처리를 진행하고 각 모델 성능 결과를 출력했습니다.
 
-### 하이퍼 파라미터
 
-
-||값|
-|:---:|:---:|
-|layer|2|
-|batch size|32|
-|epoch|4|
 
 ## 주요 실험 결과
 
